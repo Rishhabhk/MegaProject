@@ -1,0 +1,7 @@
+html, body{
+  overflow-x: hidden;
+}
+.section2_bg_grill{
+  background-image: url("./assets/9158751.jpg");
+  background-size: contain;
+}
